@@ -1,1 +1,1 @@
-1. from dev branch create banner.txt
+1. from dev branch create banner
